@@ -1,1 +1,8 @@
 /* add your CSS here */
+.label {
+    font-weight : bold;
+}
+
+#interestingfact {
+    font-style: italic;
+}
